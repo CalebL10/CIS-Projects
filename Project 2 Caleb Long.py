@@ -1,0 +1,8 @@
+print("This program will compute the momentum and kinetic energy of an object.")
+mass = float(input("Please enter the mass of the object (kilograms): "))
+velocity = float(input("Please enter the velocity of the object (meters per second): "))
+momentum = str(mass * velocity)
+k_energy = str((1/2) * mass * velocity ** 2)
+print("momentum = " + momentum + " kg m/s")
+print("kinetic energy = " + k_energy + " joules")
+input()
