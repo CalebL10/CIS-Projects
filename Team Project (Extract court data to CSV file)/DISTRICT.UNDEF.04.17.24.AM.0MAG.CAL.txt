@@ -1,0 +1,64 @@
+
+  RUN DATE: 04/08/24                                                        PAGE   1
+                             IN THE GENERAL COURT OF JUSTICE
+  LOCATION: BOONE, N.C.          DISTRICT COURT DIVISION       COUNTY OF WATAUGA
+
+          COURT DATE: 04/17/24        TIME: 09:00 AM        COURTROOM NUMBER: 0MAG
+
+                  MAGISTRATES COURT
+
+                     JUDGE PRESIDING :
+                     COURTROOM CLERK :
+                     PROSECUTOR      :
+                                     :
+                                     :
+                                     :
+                                     :
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+     1  09CR 050249 GUY,JOHNNY,M          MOUNTAIN LUMBE
+                    BOND:             WPA
+        (M)W/C SIMPLE      $  376.21        PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+
+
+     2  09CR 050744 GUY,JOHNNY,MITCHELL   BOONE RENT ALL
+                    BOND:             WPA
+        (M)W/C SIMPLE      $  526.67        PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+
+
+     3  09CR 050745 GUY,JOHNNY,MITCHELL   BOONE RENT ALL
+                    BOND:             WPA
+        (M)W/C SIMPLE      $  921.65        PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+1 RUN DATE: 04/08/24                                                        PAGE   1
+                             IN THE GENERAL COURT OF JUSTICE
+  LOCATION: BOONE, N.C.          DISTRICT COURT DIVISION       COUNTY OF WATAUGA
+
+          COURT DATE: 04/17/24        TIME: 09:00 AM        COURTROOM NUMBER: 0MAG
+
+                  MAGISTRATES COURT
+
+                     JUDGE PRESIDING :
+                     COURTROOM CLERK :
+                     PROSECUTOR      :
+                                     :
+                                     :
+                                     :
+                                     :
+
+  NO. DEFENDANT NAME          OFFENSE                        COMPLAINANT FILE NUMBER
+  *************************************************************************************
+       1 GUY,JOHNNY,M           W/C SIMPLE      $  376.21      MOUNTAIN LU 09CR 050249
+       2 GUY,JOHNNY,MITCHELL    W/C SIMPLE      $  526.67      BOONE RENT  09CR 050744
+       3 GUY,JOHNNY,MITCHELL    W/C SIMPLE      $  921.65      BOONE RENT  09CR 050745
+
+  * MISSING/INVALID CHECK DIGIT
+ ** DEFENDANT NEEDS TO BE FINGERPRINTED
